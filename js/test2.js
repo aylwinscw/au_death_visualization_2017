@@ -25,8 +25,8 @@ var genderConverter = function(d){
   
 function drawRingChart(){
   
-    var color = d3.scaleOrdinal(d3.schemeCategory10);
-    //var color = ["#ff7f0e", "#1f77b4"];
+    //var color = d3.scaleOrdinal(d3.schemeCategory10);
+    var color = ["#24A1DE", "#ff7f0e"];
   
     const margin = 40;
     const width = 500 - 2 * margin;
@@ -85,7 +85,7 @@ function drawRingChart(){
         // Draw arc paths
         _currentArcs
             .attr("fill", function(d, i){
-                return color(i)
+                return color[i]
             })
             .attr("d", function(d, i){
                 return _arc(d, i);
@@ -144,7 +144,7 @@ function drawRingChart(){
                         .attr("transform", function(d, i){
 
                             var height = legendRectSize + legendSpacing;          // NEW
-                            var offset =  height * color.domain().length / 2;     // NEW
+                            var offset =  height * 2 / 2;     // NEW
                             var horz = -2 * legendRectSize + 250;                       // NEW
                             var vert = i * height - offset + 290;
                                                    
@@ -155,7 +155,7 @@ function drawRingChart(){
             .attr('width', legendRectSize)                         
             .attr('height', legendRectSize)                        
             .style('fill', function(d, i){
-                return color(i)
+                return color[i]
             });                              
 
         legend.append('text')                                     

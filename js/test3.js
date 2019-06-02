@@ -109,7 +109,7 @@ function drawCauseChart(){
             .attr('y', (d) => yScale(d.cause))
             .attr('width', (d) => xScale(d.total))
             .attr('height', yScale.bandwidth())
-            .attr("fill", "#1f77b4")
+            .attr("fill", "#24A1DE")
             .on("mousemove", function(d, i){
               d3.select(this)
               .attr("fill", "#ff7f0e");
@@ -124,7 +124,7 @@ function drawCauseChart(){
               
           }).on("mouseout", function(d) {
               d3.select(this)
-              .attr("fill", "#1f77b4");
+              .attr("fill", "#24A1DE");
             
               myTooltip.style("display", "none");
           });

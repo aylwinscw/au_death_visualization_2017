@@ -92,7 +92,7 @@ function drawBarChart() {
       .attr('y', (d) => yScale(d.number))
       .attr('height', (d) => height - yScale(d.number))
       .attr('width', xScale.bandwidth())
-      .attr("fill", "#1f77b4")
+      .attr("fill", "#24A1DE")
       .on("mousemove", function(d, i){
 
         var percentage = Math.round(d.number/160909*100);
@@ -130,14 +130,14 @@ function drawBarChart() {
           onClicked = false;
 
           d3.select(this)
-              .attr("fill", "#1f77b4");
+              .attr("fill", "#24A1DE");
 
           updateRingChart(11);
 
           updateCauseChart("All");
         } else {
 
-          tempBar.attr("fill", "#1f77b4");
+          tempBar.attr("fill", "#24A1DE");
 
           onClicked = true
           tempPos = i;
