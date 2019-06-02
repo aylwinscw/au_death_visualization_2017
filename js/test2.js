@@ -26,6 +26,7 @@ var genderConverter = function(d){
 function drawRingChart(){
   
     var color = d3.scaleOrdinal(d3.schemeCategory10);
+    //var color = ["#ff7f0e", "#1f77b4"];
   
     const margin = 40;
     const width = 500 - 2 * margin;
