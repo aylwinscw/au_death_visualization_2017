@@ -1,0 +1,36 @@
+.row {
+    padding-top: 24px;
+}
+
+.card {
+    padding: 8px;
+    margin-bottom: 24px;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: .2rem;
+}
+
+.grid .tick line {
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+  }
+
+.myToolTip {
+    position: absolute;
+    display: none;
+    min-width: 80px;
+    min-height: 80px;
+    background: none repeat scroll 0 0 #ffffff;
+    border: 1px solid #6F257F;
+    padding: 14px;
+    text-align: center;
+    pointer-events: none;
+}
+
+.chart-title {
+    font-size: 32px;
+    font-weight: bold;
+}

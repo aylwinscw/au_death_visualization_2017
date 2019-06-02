@@ -1,0 +1,121 @@
+Age,Cause,Brief,Male,Female,Total
+<1,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery (P00-P04)",Complications of pregnancy (P00-P04),142,106,248
+<1,Other disorders originating in the perinatal period (P90-P96),Disorders in the perinatal period (P90-P96),54,38,92
+<1,Disorders related to length of gestation and fetal growth (P05-P08),Premature delivery (P05-P08),53,37,90
+<1,Ill-defined and unknown causes of mortality (R95-R99),Unknown (R95-R99),40,47,87
+<1,Congenital malformations of the circulatory system (Q20-Q28),Circulatory malfunctions (Q20-Q28),32,42,74
+<1,Respiratory and cardiovascular disorders specific to the perinatal period (P20-P29),Respiratory and cardiovascular disorders specific to the perinatal period (P20-P29),32,25,57
+<1,Congenital malformations of the nervous system (Q00-Q07),CNS abnormalities (Q00-Q07),26,16,42
+<1,"Chromosomal abnormalities, not elsewhere classified (Q90-Q99)",Chromosomal abnormalities (Q90-Q99),18,22,40
+<1,Congenital malformations and deformations of the musculoskeletal system (Q65-Q79),Musculoskeletal abnormality (Q65-Q79),16,13,29
+<1,Other congenital malformations (Q80-Q89),Congenital malformations (Q80-Q89),15,13,28
+1-14,"Malignant neoplasms of eye, brain and other parts of central nervous system (C69-C72)",CNS Cancer (C69-C72),23,18,41
+1-14,Accidental drowning and submersion (W65-W74),Drowning (W65-W74),17,10,27
+1-14,Pedestrian injured in transport accident (V01-V09),Non-motor accident (V01-V09),20,7,27
+1-14,"Intentional self-harm (X60-X84, Y87.0)","Self-harm (X60-X84, Y87.0)",16,8,24
+1-14,Metabolic disorders (E70-E90),Metabolic disorders (E70-E90),15,6,21
+1-14,"Malignant neoplasms of lymphoid, haematopoietic and related tissue (C81-C96)",Lymphoma (C81-C96),11,7,18
+1-14,Car occupant injured in transport accident (V40-V49),Car accident (V40-V49),10,8,18
+1-14,Other bacterial diseases (A30-A49),Bacterial diseases (A30-A49),10,7,17
+1-14,Episodic and paroxysmal disorders (G40-G47),Episodic and paroxysmal disorders (G40-G47),5,8,13
+1-14,Chronic lower respiratory diseases (J40-J47),Asthma (J40-J47),7,4,11
+15-24,"Intentional self-harm (X60-X84, Y87.0)","Self-harm (X60-X84, Y87.0)",301,103,404
+15-24,Car occupant injured in transport accident (V40-V49),Car accident (V40-V49),121,44,165
+15-24,Accidental poisoning by and exposure to noxious substances (X40-X49),Intoxication (X40-X49),38,11,49
+15-24,Motorcycle rider injured in transport accident (V20-V29),Motorcycle accident (V20-V29),41,0,41
+15-24,"Malignant neoplasms of lymphoid, haematopoietic and related tissue (C81-C96)",Lymphoma (C81-C96),15,10,25
+15-24,Other forms of heart disease (I30-I52),Heart disease (I30-I52),16,9,25
+15-24,Malignant neoplasms of bone and articular cartilage (C40-C41),Osteosarcoma (C40-C41),14,7,21
+15-24,Accidental drowning and submersion (W65-W74),Drowning (W65-W74),16,4,20
+15-24,"Assault (X85-Y09, Y87.1)","Assault (X85-Y09, Y87.1)",16,4,20
+15-24,Pedestrian injured in transport accident (V01-V09),Non-motor accident (V01-V09),15,4,19
+25-34,"Intentional self-harm (X60-X84, Y87.0)","Self-harm (X60-X84, Y87.0)",463,133,596
+25-34,Accidental poisoning by and exposure to noxious substances (X40-X49),Intoxication (X40-X49),195,56,251
+25-34,Car occupant injured in transport accident (V40-V49),Car accident (V40-V49),91,27,118
+25-34,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer (C15-C26),38,33,71
+25-34,Motorcycle rider injured in transport accident (V20-V29),Motorcycle accident (V20-V29),41,1,42
+25-34,Ischaemic heart diseases (I20-I25),Ischemic heart diseases (I20-I25),32,6,38
+25-34,Other forms of heart disease (I30-I52),Heart disease (I30-I52),26,12,38
+25-34,"Assault (X85-Y09, Y87.1)","Assault (X85-Y09, Y87.1)",22,13,35
+25-34,"Malignant neoplasms of lymphoid, haematopoietic and related tissue (C81-C96)",Lymphoma (C81-C96),18,14,32
+25-34,Event of undetermined intent (Y10-Y34),Undermined intent(Y10-Y34),21,11,32
+35-44,"Intentional self-harm (X60-X84, Y87.0)","Self-harm (X60-X84, Y87.0)",456,126,582
+35-44,Accidental poisoning by and exposure to noxious substances (X40-X49),Intoxication (X40-X49),309,101,410
+35-44,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer (C15-C26),114,91,205
+35-44,Ischaemic heart diseases (I20-I25),Ischaemic heart diseases (I20-I25),152,39,191
+35-44,Malignant neoplasm of breast  (C50),Breast Cancer (C50),0,127,127
+35-44,Diseases of liver (K70-K77),Liver Diseases (K70-K77),71,39,110
+35-44,Other forms of heart disease (I30-I52),Heart disease (I30-I52),66,36,102
+35-44,Car occupant injured in transport accident (V40-V49),Car accident (V40-V49),67,24,91
+35-44,Cerebrovascular diseases (I60-I69),Cerebrovascular diseases (I60-I69),40,39,79
+35-44,Malignant neoplasms of respiratory and intrathoracic organs (C30-C39),Lung Cancer (C30-C39),44,33,77
+45-54,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer (C15-C26),495,297,792
+45-54,Ischaemic heart diseases (I20-I25),Ischaemic heart diseases (I20-I25),553,118,671
+45-54,"Intentional self-harm (X60-X84, Y87.0)","Self-harm (X60-X84, Y87.0)",424,175,599
+45-54,Malignant neoplasms of respiratory and intrathoracic organs (C30-C39),Lung Cancer (C30-C39),222,185,407
+45-54,Accidental poisoning by and exposure to noxious substances (X40-X49),Intoxication (X40-X49),237,116,353
+45-54,Diseases of liver (K70-K77),Diseases of liver (K70-K77),236,115,351
+45-54,Malignant neoplasm of breast  (C50),Breast Cancer (C50),2,345,347
+45-54,Cerebrovascular diseases (I60-I69),Cerebrovascular diseases (I60-I69),122,109,231
+45-54,Other forms of heart disease (I30-I52),Heart disease (I30-I52),143,55,198
+45-54,"Malignant neoplasms of eye, brain and other parts of central nervous system (C69-C72)",CNS Cancer (C69-C72),118,67,185
+55-64,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer(C15-C26),1300,699,1999
+55-64,Malignant neoplasms of respiratory and intrathoracic organs (C30-C39),Lung Cancer (C30-C39),835,580,1415
+55-64,Ischaemic heart diseases (I20-I25),Ischaemic heart diseases (I20-I25),1099,267,1366
+55-64,Chronic lower respiratory diseases (J40-J47),Asthma (J40-J47),313,292,605
+55-64,Malignant neoplasm of breast  (C50),Breast Cancer (C50),5,527,532
+55-64,Diseases of liver (K70-K77),Liver diseases (K70-K77),384,134,518
+55-64,"Malignant neoplasms of lymphoid, haematopoietic and related tissue (C81-C96)",Lymphoma (C81-C96),294,166,460
+55-64,"Intentional self-harm (X60-X84, Y87.0)","Self-harm (X60-X84, Y87.0)",330,119,449
+55-64,Diabetes mellitus (E10-E14),Diabetes (E10-E14),235,158,393
+55-64,Cerebrovascular diseases (I60-I69),Cerebrovascular diseases (I60-I69),234,155,389
+65-74,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer(C15-C26),2123,1243,3366
+65-74,Malignant neoplasms of respiratory and intrathoracic organs (C30-C39),Lung Cancer(C30-C39),1644,1091,2735
+65-74,Ischaemic heart diseases (I20-I25),Ischaemic heart diseases (I20-I25),1878,676,2554
+65-74,Chronic lower respiratory diseases (J40-J47),Asthma (J40-J47),906,795,1701
+65-74,"Malignant neoplasms of lymphoid, haematopoietic and related tissue (C81-C96)",Lymphoma (C81-C96),695,414,1109
+65-74,Cerebrovascular diseases (I60-I69),Cerebrovascular diseases (I60-I69),596,452,1048
+65-74,Diabetes mellitus (E10-E14),Diabetes (E10-E14),570,321,891
+65-74,Other forms of heart disease (I30-I52),Heart Disease (I30-I52),522,285,807
+65-74,Malignant neoplasm of breast  (C50),Breast Cancer (C50),10,662,672
+65-74,Malignant neoplasms of male genital organs (C60-C63),Enitalcarcinoma (C60-C63),666,0,666
+75-84,Ischaemic heart diseases (I20-I25),Ischaemic heart diseases (I20-I25),2826,1678,4504
+75-84,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer(C15-C26),2244,1655,3899
+75-84,Chronic lower respiratory diseases (J40-J47),Asthma (J40-J47),1492,1311,2803
+75-84,Cerebrovascular diseases (I60-I69),Cerebrovascular diseases (I60-I69),1316,1400,2716
+75-84,Malignant neoplasms of respiratory and intrathoracic organs (C30-C39),Lung Cancer (C30-C39),1566,924,2490
+75-84,"Organic, including symptomatic, mental disorders (F00-F09)",Mental Disorders (F00-F09),1007,1160,2167
+75-84,Other forms of heart disease (I30-I52),Heart Disease (I30-I52),1107,1016,2123
+75-84,"Malignant neoplasms of lymphoid, haematopoietic and related tissue (C81-C96)",Lymphoma (C81-C96),886,586,1472
+75-84,Diabetes mellitus (E10-E14),Diabetes (E10-E14),821,610,1431
+75-84,Other degenerative diseases of the nervous system (G30-G32),Alzheimer's disease (G30-G32),640,759,1399
+85-94,Ischaemic heart diseases (I20-I25),Ischaemic heart diseases (I20-I25),3420,3921,7341
+85-94,"Organic, including symptomatic, mental disorders (F00-F09)",Mental Disorders (F00-F09),1937,3520,5457
+85-94,Cerebrovascular diseases (I60-I69),Cerebrovascular diseases (I60-I69),1696,2846,4542
+85-94,Other forms of heart disease (I30-I52),Heart Disease (I30-I52),1740,2581,4321
+85-94,Chronic lower respiratory diseases (J40-J47),Asthma (J40-J47),1294,1339,2633
+85-94,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer(C15-C26),1166,1441,2607
+85-94,Other degenerative diseases of the nervous system (G30-G32),Alzheimer's disease (G30-G32),778,1660,2438
+85-94,Influenza and pneumonia (J09-J18),Influenza (J09-J18),881,1151,2032
+85-94,Diabetes mellitus (E10-E14),Diabetes (E10-E14),752,902,1654
+85-94,Falls (W00-W19),Falls (W00-W19),575,802,1377
+>95,Ischaemic heart diseases (I20-I25),Ischaemic heart diseases (I20-I25),553,1370,1923
+>95,"Organic, including symptomatic, mental disorders (F00-F09)",Mental Disorders (F00-F09),307,1267,1574
+>95,Other forms of heart disease (I30-I52),Heart Disease (I30-I52),309,851,1160
+>95,Cerebrovascular diseases (I60-I69),Cerebrovascular diseases (I60-I69),272,872,1144
+>95,Influenza and pneumonia (J09-J18),Influenza (J09-J18),201,499,700
+>95,Other degenerative diseases of the nervous system (G30-G32),Alzheimer's disease (G30-G32),103,406,509
+>95,Hypertensive diseases (I10-I15),Hypertensive diseases (I10-I15),81,319,400
+>95,Chronic lower respiratory diseases (J40-J47),Asthma (J40-J47),136,239,375
+>95,Falls (W00-W19),Falls (W00-W19),96,229,325
+>95,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer(C15-C26),102,183,285
+All,Ischaemic heart diseases (I20-I25),Ischaemic heart diseases (I20-I25),10514,8076,18590
+All,Malignant neoplasms of digestive organs (C15-C26),Gastric Cancer(C15-C26),7587,5648,13235
+All,Cerebrovascular diseases (I60-I69),Cerebrovascular diseases (I60-I69),4302,5884,10186
+All,"Organic, including symptomatic, mental disorders (F00-F09)",Mental Disorders (F00-F09),3508,6132,9640
+All,Other forms of heart disease (I30-I52),Heart Disease (I30-I52),4202,4953,9155
+All,Malignant neoplasms of respiratory and intrathoracic organs (C30-C39),Lung Cancer (C30-C39),5133,3403,8536
+All,Chronic lower respiratory diseases (J40-J47),Asthma (J40-J47),4268,4089,8357
+All,Other degenerative diseases of the nervous system (G30-G32),Alzheimer's disease (G30-G32),1792,3084,4876
+All,Diabetes mellitus (E10-E14),Diabetes (E10-E14),2583,2256,4839
+All,"Malignant neoplasms of lymphoid, haematopoietic and related tissue (C81-C96)",Lymphoma (C81-C96),2660,1839,4499
